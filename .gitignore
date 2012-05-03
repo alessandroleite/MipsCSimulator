@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+*.depend
+*.layout
+*.depend.*
+*.layout.*
+MipsSimulator.cbp.cbTemp
